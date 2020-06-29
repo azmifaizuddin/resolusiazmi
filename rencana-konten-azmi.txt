@@ -1,0 +1,8 @@
+Rencana Belajar Coding
+
+-JS
+ *ES6
+ *Framework JS
+-PHP
+-GOLANG
+-VLOG
