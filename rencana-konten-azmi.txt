@@ -4,6 +4,7 @@ Rencana Belajar Coding
  *ES6
  *Framework JS
   *VIew
+  *React  JS
 -Fundamental Stuktur Data
 -PHP
   *Laravel
