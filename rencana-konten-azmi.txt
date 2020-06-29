@@ -3,7 +3,10 @@ Rencana Belajar Coding
 -JS
  *ES6
  *Framework JS
+  *VIew
 -Fundamental Stuktur Data
 -PHP
+  *Laravel
 -GOLANG
 -VLOG
+-Phyton
